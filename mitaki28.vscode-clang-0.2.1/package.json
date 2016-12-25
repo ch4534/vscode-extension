@@ -1,0 +1,254 @@
+{
+	"__metadata": {
+		"galleryApiUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
+		"id": "f8dbe169-d649-4e4b-adb8-ffa113c1d616",
+		"publisherId": "c91e118d-e925-48db-9095-753f4513b2c6",
+		"publisherDisplayName": "Yasuaki MITANI",
+		"installCount": 11227,
+		"versions": [
+			{
+				"version": "0.2.1",
+				"date": "2016-04-23T20:16:28.087Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "11440b2c110a653301c0e1c06af94ec60c090d616e54d6557d16111b524bf1c2"
+				},
+				"downloadUrl": "https://mitaki28.gallery.vsassets.io/_apis/public/gallery/publisher/mitaki28/extension/vscode-clang/0.2.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://mitaki28.gallery.vsassets.io/_apis/public/gallery/publisher/mitaki28/extension/vscode-clang/0.2.1/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.2.0",
+				"date": "2016-03-07T20:15:57.517Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "11440b2c110a653301c0e1c06af94ec60c090d616e54d6557d16111b524bf1c2"
+				},
+				"downloadUrl": "https://mitaki28.gallery.vsassets.io/_apis/public/gallery/publisher/mitaki28/extension/vscode-clang/0.2.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://mitaki28.gallery.vsassets.io/_apis/public/gallery/publisher/mitaki28/extension/vscode-clang/0.2.0/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.1.0",
+				"date": "2016-03-02T13:44:12.41Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "11440b2c110a653301c0e1c06af94ec60c090d616e54d6557d16111b524bf1c2"
+				},
+				"downloadUrl": "https://mitaki28.gallery.vsassets.io/_apis/public/gallery/publisher/mitaki28/extension/vscode-clang/0.1.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://mitaki28.gallery.vsassets.io/_apis/public/gallery/publisher/mitaki28/extension/vscode-clang/0.1.0/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.9",
+				"date": "2016-02-06T03:05:12.52Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "11440b2c110a653301c0e1c06af94ec60c090d616e54d6557d16111b524bf1c2"
+				},
+				"downloadUrl": "https://mitaki28.gallery.vsassets.io/_apis/public/gallery/publisher/mitaki28/extension/vscode-clang/0.0.9/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://mitaki28.gallery.vsassets.io/_apis/public/gallery/publisher/mitaki28/extension/vscode-clang/0.0.9/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.8",
+				"date": "2016-01-29T06:44:55.95Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "11440b2c110a653301c0e1c06af94ec60c090d616e54d6557d16111b524bf1c2"
+				},
+				"downloadUrl": "https://mitaki28.gallery.vsassets.io/_apis/public/gallery/publisher/mitaki28/extension/vscode-clang/0.0.8/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://mitaki28.gallery.vsassets.io/_apis/public/gallery/publisher/mitaki28/extension/vscode-clang/0.0.8/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.7",
+				"date": "2016-01-15T18:10:20.81Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "11440b2c110a653301c0e1c06af94ec60c090d616e54d6557d16111b524bf1c2"
+				},
+				"downloadUrl": "https://mitaki28.gallery.vsassets.io/_apis/public/gallery/publisher/mitaki28/extension/vscode-clang/0.0.7/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://mitaki28.gallery.vsassets.io/_apis/public/gallery/publisher/mitaki28/extension/vscode-clang/0.0.7/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.6",
+				"date": "2016-01-14T02:37:04.57Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "11440b2c110a653301c0e1c06af94ec60c090d616e54d6557d16111b524bf1c2"
+				},
+				"downloadUrl": "https://mitaki28.gallery.vsassets.io/_apis/public/gallery/publisher/mitaki28/extension/vscode-clang/0.0.6/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://mitaki28.gallery.vsassets.io/_apis/public/gallery/publisher/mitaki28/extension/vscode-clang/0.0.6/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.5",
+				"date": "2016-01-13T22:46:33.32Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "11440b2c110a653301c0e1c06af94ec60c090d616e54d6557d16111b524bf1c2"
+				},
+				"downloadUrl": "https://mitaki28.gallery.vsassets.io/_apis/public/gallery/publisher/mitaki28/extension/vscode-clang/0.0.5/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://mitaki28.gallery.vsassets.io/_apis/public/gallery/publisher/mitaki28/extension/vscode-clang/0.0.5/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.4",
+				"date": "2016-01-13T22:42:32.82Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "11440b2c110a653301c0e1c06af94ec60c090d616e54d6557d16111b524bf1c2"
+				},
+				"downloadUrl": "https://mitaki28.gallery.vsassets.io/_apis/public/gallery/publisher/mitaki28/extension/vscode-clang/0.0.4/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://mitaki28.gallery.vsassets.io/_apis/public/gallery/publisher/mitaki28/extension/vscode-clang/0.0.4/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.3",
+				"date": "2016-01-13T17:12:21.587Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "11440b2c110a653301c0e1c06af94ec60c090d616e54d6557d16111b524bf1c2"
+				},
+				"downloadUrl": "https://mitaki28.gallery.vsassets.io/_apis/public/gallery/publisher/mitaki28/extension/vscode-clang/0.0.3/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://mitaki28.gallery.vsassets.io/_apis/public/gallery/publisher/mitaki28/extension/vscode-clang/0.0.3/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.2",
+				"date": "2016-01-13T11:03:23.55Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "11440b2c110a653301c0e1c06af94ec60c090d616e54d6557d16111b524bf1c2"
+				},
+				"downloadUrl": "https://mitaki28.gallery.vsassets.io/_apis/public/gallery/publisher/mitaki28/extension/vscode-clang/0.0.2/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://mitaki28.gallery.vsassets.io/_apis/public/gallery/publisher/mitaki28/extension/vscode-clang/0.0.2/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			}
+		]
+	},
+	"name": "vscode-clang",
+	"displayName": "C/C++ Clang",
+	"description": "Completion and Diagnostic for C/C++/Objective-C using Clang",
+	"version": "0.2.1",
+	"publisher": "mitaki28",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mitaki28/vscode-clang"
+	},
+	"bugs": {
+		"url": "https://github.com/mitaki28/vscode-clang/issues"
+	},
+	"homepage": "https://github.com/mitaki28/vscode-clang",
+	"engines": {
+		"vscode": "^0.10.10"
+	},
+	"categories": [
+		"Languages",
+		"Linters",
+		"Other"
+	],
+	"activationEvents": [
+		"onLanguage:cpp",
+		"onLanguage:c",
+		"onLanguage:objective-c",
+		"onCommand:clang.showExecConf"
+	],
+	"main": "./out/src/extension",
+	"contributes": {
+		"commands": [
+			{
+				"command": "clang.showExecConf",
+				"title": "Show Executable and Compile Options",
+				"category": "Clang"
+			}
+		],
+		"configuration": {
+			"type": "object",
+			"title": "Clang configulation",
+			"properties": {
+				"clang.executable": {
+					"type": "string",
+					"default": "clang",
+					"description": "Clang command or the path to the Clang executable"
+				},
+				"clang.cflags": {
+					"type": "array",
+					"items": {
+						"type": "string"
+					},
+					"default": [],
+					"description": "Compiler options for C (e.g. ['-std=c99'])"
+				},
+				"clang.cxxflags": {
+					"type": "array",
+					"items": {
+						"type": "string"
+					},
+					"default": [],
+					"description": "Compiler options for C++ (e.g. ['-std=c++11'])"
+				},
+				"clang.objcflags": {
+					"type": "array",
+					"items": {
+						"type": "string"
+					},
+					"default": [],
+					"description": "Compiler options for Objective-C"
+				},
+				"clang.diagnostic.enable": {
+					"type": "boolean",
+					"default": true,
+					"description": "Enable diagnostic"
+				},
+				"clang.diagnostic.delay": {
+					"type": "number",
+					"default": 500,
+					"description": "The delay after which diagnostic starts (in millisecond)"
+				},
+				"clang.diagnostic.maxBuffer": {
+					"type": "number",
+					"default": 262144,
+					"description": "Tolerable size of the clang output for diagnostic"
+				},
+				"clang.completion.enable": {
+					"type": "boolean",
+					"default": true,
+					"description": "Enable completion"
+				},
+				"clang.completion.maxBuffer": {
+					"type": "number",
+					"default": 8388608,
+					"description": "Tolerable size of the clang output for completion"
+				},
+				"clang.completion.triggerChars": {
+					"type": "array",
+					"default": [
+						".",
+						":",
+						">"
+					],
+					"description": "Trigger completion when the user types one of the characters"
+				},
+				"clang.completion.completeMacros": {
+					"type": "boolean",
+					"default": true,
+					"description": "Complete macros"
+				}
+			}
+		}
+	},
+	"scripts": {
+		"vscode:prepublish": "node ./node_modules/vscode/bin/compile",
+		"compile": "node ./node_modules/vscode/bin/compile -watch -p ./",
+		"postinstall": "node ./node_modules/vscode/bin/install"
+	},
+	"devDependencies": {
+		"typescript": "^1.8.5",
+		"vsce": "^1.0.0",
+		"vscode": "^0.11.0"
+	}
+}

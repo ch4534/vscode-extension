@@ -1,0 +1,86 @@
+{
+	"__metadata": {
+		"galleryApiUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
+		"id": "df3f3262-9436-4ca4-8c16-ebd5e3b40400",
+		"publisherId": "d0da30bb-6c9f-4482-8b47-080dc94e6008",
+		"publisherDisplayName": "Martin Kase",
+		"installCount": 4110,
+		"versions": [
+			{
+				"version": "0.0.2",
+				"date": "2015-12-06T11:57:18.15Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "11440b2c110a653301c0e1c06af94ec60c090d616e54d6557d16111b524bf1c2"
+				},
+				"downloadUrl": "https://kasik96.gallery.vsassets.io/_apis/public/gallery/publisher/Kasik96/extension/swift/0.0.2/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://kasik96.gallery.vsassets.io/_apis/public/gallery/publisher/Kasik96/extension/swift/0.0.2/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.1",
+				"date": "2015-12-06T11:08:43.847Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "11440b2c110a653301c0e1c06af94ec60c090d616e54d6557d16111b524bf1c2"
+				},
+				"downloadUrl": "https://kasik96.gallery.vsassets.io/_apis/public/gallery/publisher/Kasik96/extension/swift/0.0.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://kasik96.gallery.vsassets.io/_apis/public/gallery/publisher/Kasik96/extension/swift/0.0.1/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			}
+		]
+	},
+	"name": "swift",
+	"displayName": "Swift Language",
+	"description": "Swift language support for VS Code",
+	"version": "0.0.2",
+	"publisher": "Kasik96",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"icon": "icon.png",
+	"categories": [
+		"Languages"
+	],
+	"galleryBanner": {
+		"color": "#EA7D28",
+		"theme": "light"
+	},
+	"bugs": {
+		"url": "https://github.com/kasik96/Swift-VS-Code/issues",
+		"email": "kasemartin@icloud.com"
+	},
+	"homepage": "https://github.com/kasik96/Swift-VS-Code",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kasik96/Swift-VS-Code"
+	},
+	"contributes": {
+		"languages": [
+			{
+				"id": "swift",
+				"aliases": [
+					"Swift",
+					"swift"
+				],
+				"extensions": [
+					".swift"
+				],
+				"configuration": "./swift.configuration.json"
+			}
+		],
+		"grammars": [
+			{
+				"language": "swift",
+				"scopeName": "source.swift",
+				"path": "./syntaxes/swift.tmLanguage"
+			}
+		],
+		"snippets": [
+			{
+				"language": "swift",
+				"path": "./snippets/snippets.json"
+			}
+		]
+	}
+}

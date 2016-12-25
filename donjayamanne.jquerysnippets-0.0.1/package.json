@@ -1,0 +1,56 @@
+{
+	"__metadata": {
+		"galleryApiUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
+		"id": "99c12a52-ff68-4e9d-a975-a67556fee2f5",
+		"publisherId": "1ba8bd00-2ad1-4be0-a007-5b4b954c1ee7",
+		"publisherDisplayName": "Don Jayamanne",
+		"installCount": 14648,
+		"versions": [
+			{
+				"version": "0.0.1",
+				"date": "2015-12-07T01:02:32.93Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "11440b2c110a653301c0e1c06af94ec60c090d616e54d6557d16111b524bf1c2"
+				},
+				"downloadUrl": "https://donjayamanne.gallery.vsassets.io/_apis/public/gallery/publisher/donjayamanne/extension/jquerysnippets/0.0.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://donjayamanne.gallery.vsassets.io/_apis/public/gallery/publisher/donjayamanne/extension/jquerysnippets/0.0.1/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			}
+		]
+	},
+	"name": "jquerysnippets",
+	"displayName": "jQuery Code Snippets",
+	"description": "Over 130 jQuery Code Snippets",
+	"version": "0.0.1",
+	"publisher": "donjayamanne",
+	"license": "SEE LICENSE IN LICENSE or README.MD",
+	"homepage": "https://github.com/DonJayamanne/jquerysnippets/blob/master/README.md",
+	"icon": "images/icon.png",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"galleryBanner": {
+		"color": "#ffffff",
+		"theme": "light"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "javascript",
+				"path": "./snippets/javascript.json"
+			}
+		]
+	},
+	"scripts": {
+		"vscode:prepublish": "node ./node_modules/vscode/bin/compile",
+		"compile": "node ./node_modules/vscode/bin/compile -watch -p ./"
+	},
+	"devDependencies": {
+		"typescript": "^1.6.2",
+		"vscode": "0.10.x"
+	}
+}

@@ -1,0 +1,107 @@
+{
+	"name": "okazukiplantuml",
+	"displayName": "okazuki PlantUML",
+	"description": "VS Code plantuml plugin. You can preview uml diagram.",
+	"version": "0.1.9",
+	"publisher": "okazuki",
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"icon": "images/icon.png",
+	"license": "https://github.com/runceel/plantumlpreview/blob/master/LICENSE",
+	"bugs": {
+		"url": "https://github.com/runceel/plantumlpreview/issues"
+	},
+	"categories": [
+		"Other"
+	],
+	"activationEvents": [
+		"onCommand:extension.previewPlantUML",
+		"onCommand:extension.exportPlantUML-png",
+		"onCommand:extension.exportPlantUML-svg",
+		"onCommand:extension.exportPlantUML-eps",
+		"onCommand:extension.exportPlantUML-pdf",
+		"onCommand:extension.exportPlantUML-vdx",
+		"onCommand:extension.exportPlantUML-xmi",
+		"onCommand:extension.exportPlantUML-scxml",
+		"onCommand:extension.exportPlantUML-html",
+		"onCommand:extension.exportPlantUML-txt",
+		"onCommand:extension.exportPlantUML-utxt",
+		"onCommand:extension.exportPlantUML-latex",
+		"onCommand:extension.exportPlantUML-latex:nopreamble"
+	],
+	"main": "./out/src/extension",
+	"contributes": {
+		"commands": [
+			{
+				"command": "extension.previewPlantUML",
+				"title": "PlantUML Preview"
+			},
+			{
+				"command": "extension.exportPlantUML-png",
+				"title": "PlantUML Export PNG"
+			},
+			{
+				"command": "extension.exportPlantUML-svg",
+				"title": "PlantUML Export SVG"
+			},
+			{
+				"command": "extension.exportPlantUML-eps",
+				"title": "PlantUML Export EPS"
+			},
+			{
+				"command": "extension.exportPlantUML-pdf",
+				"title": "PlantUML Export PDF"
+			},
+			{
+				"command": "extension.exportPlantUML-vdx",
+				"title": "PlantUML Export VDX"
+			},
+			{
+				"command": "extension.exportPlantUML-xmi",
+				"title": "PlantUML Export XMI"
+			},
+			{
+				"command": "extension.exportPlantUML-scxml",
+				"title": "PlantUML Export SCXML"
+			},
+			{
+				"command": "extension.exportPlantUML-html",
+				"title": "PlantUML Export HTML"
+			},
+			{
+				"command": "extension.exportPlantUML-txt",
+				"title": "PlantUML Export TXT"
+			},
+			{
+				"command": "extension.exportPlantUML-utxt",
+				"title": "PlantUML Export UTXT"
+			},
+			{
+				"command": "extension.exportPlantUML-latex",
+				"title": "PlantUML Export LATEX"
+			},
+			{
+				"command": "extension.exportPlantUML-latex:nopreamble",
+				"title": "PlantUML Export LATEX:NOPREAMBLE"
+			}
+		]
+	},
+	"scripts": {
+		"vscode:prepublish": "node ./node_modules/vscode/bin/compile",
+		"compile": "node ./node_modules/vscode/bin/compile -watch -p ./",
+		"postinstall": "node ./node_modules/vscode/bin/install"
+	},
+	"devDependencies": {
+		"typescript": "^1.8.5",
+		"vscode": "^0.11.0"
+	},
+	"dependencies": {
+		"q": "^1.4.1"
+	},
+	"__metadata": {
+		"id": "c8fe87d3-1cf7-4ed5-9e15-e92d5ba58be2",
+		"publisherId": "59f8511e-125d-4567-b342-7bea6bdebcbf",
+		"publisherDisplayName": "Kazuki Ohta"
+	}
+}
